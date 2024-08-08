@@ -2,7 +2,7 @@
 // @name         Simple YouTube Video Ad-Skipper
 // @namespace    https://github.com/playerdecuple/Simple-Youtube-Video-Ad-Skipper
 // @supportURL   https://github.com/playerdecuple/Simple-YouTube-Video-Ad-Skipper/issues
-// @updateURL    https://github.com/playerdecuple/Simple-Youtube-Video-Ad-Skipper/raw/master/dist/Simple-YouTube-Video-Ad-Skipper.user.js
+// @updateURL    https://github.com/playerdecuple/Simple-YouTube-Video-Ad-Skipper/raw/main/dist/Simple-YouTube-Video-Ad-Skipper.user.js
 // @version      1.0.0
 // @description  Remove all YouTube video advertising content without using ad-blocking extensions!
 // @author       playerdecuple (https://github.com/playerdecuple)
